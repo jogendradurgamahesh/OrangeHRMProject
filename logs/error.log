@@ -1,0 +1,985 @@
+2026-03-29 07:15:44 [main] ERROR BaseClass - Error msg
+2026-03-29 07:15:44 [main] FATAL BaseClass - Fatal a msg
+2026-03-29 07:16:01 [main] ERROR BaseClass - Error msg
+2026-03-29 07:16:01 [main] FATAL BaseClass - Fatal a msg
+2026-03-29 07:17:14 [main] ERROR BaseClass - Error msg
+2026-03-29 07:17:14 [main] FATAL BaseClass - Fatal a msg
+2026-03-29 07:17:16 [main] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-03-29 07:17:30 [main] ERROR BaseClass - Error msg
+2026-03-29 07:17:30 [main] FATAL BaseClass - Fatal a msg
+2026-03-29 19:08:20 [main] ERROR BaseClass - Error msg
+2026-03-29 19:08:20 [main] FATAL BaseClass - Fatal a msg
+2026-03-29 19:08:21 [main] ERROR ActionDriver - unable to describe the element
+2026-03-29 19:08:46 [main] ERROR BaseClass - Error msg
+2026-03-29 19:08:46 [main] FATAL BaseClass - Fatal a msg
+2026-03-29 19:08:47 [main] ERROR ActionDriver - unable to describe the element
+2026-03-29 19:08:49 [main] ERROR ActionDriver - unable to describe the element
+2026-03-29 19:08:50 [main] ERROR ActionDriver - unable to describe the element
+2026-03-29 19:08:50 [main] ERROR ActionDriver - unable to describe the element
+2026-03-29 19:18:48 [main] ERROR BaseClass - Error msg
+2026-03-29 19:18:48 [main] FATAL BaseClass - Fatal a msg
+2026-03-29 19:19:17 [main] ERROR BaseClass - Error msg
+2026-03-29 19:19:17 [main] FATAL BaseClass - Fatal a msg
+2026-03-29 19:21:27 [main] ERROR BaseClass - Error msg
+2026-03-29 19:21:27 [main] FATAL BaseClass - Fatal a msg
+2026-03-29 19:21:52 [main] ERROR BaseClass - Error msg
+2026-03-29 19:21:52 [main] FATAL BaseClass - Fatal a msg
+2026-03-29 19:53:35 [TestNG-test-orangeHRMTest-1] ERROR BaseClass - Error msg
+2026-03-29 19:53:35 [TestNG-test-orangeHRMTest-1] FATAL BaseClass - Fatal a msg
+2026-03-29 19:53:36 [TestNG-test-orangeHRMTest-3] ERROR BaseClass - Error msg
+2026-03-29 19:53:36 [TestNG-test-orangeHRMTest-3] FATAL BaseClass - Fatal a msg
+2026-03-29 19:53:37 [TestNG-test-orangeHRMTest-2] ERROR BaseClass - Error msg
+2026-03-29 19:53:37 [TestNG-test-orangeHRMTest-2] FATAL BaseClass - Fatal a msg
+2026-03-29 19:53:37 [TestNG-test-orangeHRMTest-4] ERROR BaseClass - Error msg
+2026-03-29 19:53:37 [TestNG-test-orangeHRMTest-4] FATAL BaseClass - Fatal a msg
+2026-03-30 06:23:01 [TestNG-test-orangeHRMTest-4] ERROR ActionDriver - element is not visible invalid selector: Unable to locate an element with the xpath expression //div[@class='//*[@class='oxd-brand-banner']/img'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='//*[@class='oxd-brand-banner']/img']' is not a valid XPath expression.
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [21225ecf3de988d6d283197d13da6d02, findElement {using=xpath, value=//div[@class='//*[@class='oxd-brand-banner']/img']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52221}, goog:processID: 37324, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52221/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 21225ecf3de988d6d283197d13da6d02
+2026-03-30 06:23:01 [TestNG-test-orangeHRMTest-4] ERROR ActionDriver - Element not displayed invalid selector: Unable to locate an element with the xpath expression //div[@class='//*[@class='oxd-brand-banner']/img'] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[@class='//*[@class='oxd-brand-banner']/img']' is not a valid XPath expression.
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [21225ecf3de988d6d283197d13da6d02, findElement {using=xpath, value=//div[@class='//*[@class='oxd-brand-banner']/img']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52221}, goog:processID: 37324, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52221/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 21225ecf3de988d6d283197d13da6d02
+2026-03-30 06:40:12 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //*[text()='Invalid credentials'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61628}, goog:processID: 12072, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61628/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 58cc9e00ba42ea22cc2515af21f389a3
+2026-03-30 06:40:15 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - unable to compate texts Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58cc9e00ba42ea22cc2515af21f389a3, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61628}, goog:processID: 12072, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61628/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 58cc9e00ba42ea22cc2515af21f389a3
+2026-03-30 07:25:58 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - element is not visible Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, findElement {using=xpath, value=//*[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 23832, ms:edgeOptions: {debuggerAddress: localhost:50719}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50719/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-03-30 07:25:58 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - unable to compate texts Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, findElement {using=xpath, value=//*[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 23832, ms:edgeOptions: {debuggerAddress: localhost:50719}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50719/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-04-01 10:16:19 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.name: username (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49682}, goog:processID: 42596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49682/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b9290ee3efd161f018b4e5e046660e6
+2026-04-01 10:16:30 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - unable to enter the value no such element: Unable to locate element: {"method":"css selector","selector":"*[name='username']"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b9290ee3efd161f018b4e5e046660e6, findElement {value=username, using=name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49682}, goog:processID: 42596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49682/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b9290ee3efd161f018b4e5e046660e6
+2026-04-01 10:17:01 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.cssSelector: input[type='password'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49682}, goog:processID: 42596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49682/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b9290ee3efd161f018b4e5e046660e6
+2026-04-01 10:17:11 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - unable to enter the value no such element: Unable to locate element: {"method":"css selector","selector":"input[type='password']"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b9290ee3efd161f018b4e5e046660e6, findElement {value=input[type='password'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49682}, goog:processID: 42596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49682/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b9290ee3efd161f018b4e5e046660e6
+2026-04-01 10:17:52 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()=' Login '] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49682}, goog:processID: 42596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49682/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b9290ee3efd161f018b4e5e046660e6
+2026-04-01 10:18:03 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - unable to click no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()=' Login ']"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b9290ee3efd161f018b4e5e046660e6, findElement {value=//button[text()=' Login '], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49682}, goog:processID: 42596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49682/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b9290ee3efd161f018b4e5e046660e6
+2026-04-01 10:18:30 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - element is not visible Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b9290ee3efd161f018b4e5e046660e6, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49682}, goog:processID: 42596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49682/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b9290ee3efd161f018b4e5e046660e6
+2026-04-01 10:18:30 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - unable to compate texts Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6b9290ee3efd161f018b4e5e046660e6, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49682}, goog:processID: 42596, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49682/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6b9290ee3efd161f018b4e5e046660e6
+2026-04-01 10:28:21 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-01 11:36:36 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-01 11:50:33 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-01 11:58:32 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-01 12:19:29 [TestNG-test-orangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-01 17:17:43 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-01 17:18:08 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.name: username (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63602}, goog:processID: 23504, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63602/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 50212924ad6bc28d74ad43b6b76388b8
+2026-04-01 17:18:58 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - unable to enter the value no such element: Unable to locate element: {"method":"css selector","selector":"*[name='username']"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [50212924ad6bc28d74ad43b6b76388b8, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63602}, goog:processID: 23504, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63602/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 50212924ad6bc28d74ad43b6b76388b8
+2026-04-01 17:19:29 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.cssSelector: input[type='password'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63602}, goog:processID: 23504, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63602/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 50212924ad6bc28d74ad43b6b76388b8
+2026-04-01 17:20:19 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - unable to enter the value no such element: Unable to locate element: {"method":"css selector","selector":"input[type='password']"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [50212924ad6bc28d74ad43b6b76388b8, findElement {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63602}, goog:processID: 23504, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63602/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 50212924ad6bc28d74ad43b6b76388b8
+2026-04-01 17:21:21 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()=' Login '] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63602}, goog:processID: 23504, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63602/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 50212924ad6bc28d74ad43b6b76388b8
+2026-04-01 17:21:51 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - unable to click no such element: Unable to locate element: {"method":"xpath","selector":"//button[text()=' Login ']"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [50212924ad6bc28d74ad43b6b76388b8, findElement {using=xpath, value=//button[text()=' Login ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63602}, goog:processID: 23504, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63602/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 50212924ad6bc28d74ad43b6b76388b8
+2026-04-01 17:22:12 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not visible Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [50212924ad6bc28d74ad43b6b76388b8, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63602}, goog:processID: 23504, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63602/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 50212924ad6bc28d74ad43b6b76388b8
+2026-04-01 17:22:12 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element not displayed Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [50212924ad6bc28d74ad43b6b76388b8, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63602}, goog:processID: 23504, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63602/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 50212924ad6bc28d74ad43b6b76388b8
+2026-04-01 17:23:28 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-01 17:23:52 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='oxd-brand-banner']/img (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49929}, goog:processID: 26180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49929/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d4878bf94275da0e6cee7068a6d9988
+2026-04-01 17:25:12 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - Element not displayed no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-brand-banner']/img"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d4878bf94275da0e6cee7068a6d9988, findElement {using=xpath, value=//div[@class='oxd-brand-banner']/img}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49929}, goog:processID: 26180, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49929/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d4878bf94275da0e6cee7068a6d9988
+2026-04-01 17:27:07 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-01 18:13:28 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-01 18:14:45 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //*[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57104}, goog:processID: 30336, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57104/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 19f0b1e1b68b134bb1ad9057b8407830
+2026-04-01 18:15:05 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to click no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Logout']"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [19f0b1e1b68b134bb1ad9057b8407830, findElement {using=xpath, value=//*[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57104}, goog:processID: 30336, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57104/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 19f0b1e1b68b134bb1ad9057b8407830
+2026-04-01 18:15:58 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - element is not clickable Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d22b7e9e7f2daea7c8999266a4e1e189, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53951}, goog:processID: 27072, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53951/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d22b7e9e7f2daea7c8999266a4e1e189
+2026-04-01 18:15:58 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to click Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d22b7e9e7f2daea7c8999266a4e1e189, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53951}, goog:processID: 27072, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53951/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d22b7e9e7f2daea7c8999266a4e1e189
+2026-04-01 18:17:22 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-01 18:18:39 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //*[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61369}, goog:processID: 41496, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61369/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c877239290a6c05bea8bd66c42946bd
+2026-04-01 18:19:10 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to click no such element: Unable to locate element: {"method":"xpath","selector":"//*[text()='Logout']"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8c877239290a6c05bea8bd66c42946bd, findElement {value=//*[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61369}, goog:processID: 41496, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61369/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c877239290a6c05bea8bd66c42946bd
+2026-04-01 18:20:26 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //*[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50854}, goog:processID: 29648, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50854/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dd0e7a920b072d8dc269789e5e515698
+2026-04-01 18:20:38 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - unable to click Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dd0e7a920b072d8dc269789e5e515698, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50854}, goog:processID: 29648, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50854/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dd0e7a920b072d8dc269789e5e515698
+2026-04-02 12:25:27 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to enter the value Keys to send should be a not null CharSequence
+2026-04-02 12:26:29 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='PIM'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59601}, goog:processID: 32544, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59601/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 07b8a689aeabaf3703e743dbf2ab182b
+2026-04-02 12:27:29 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62687}, goog:processID: 32716, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62687/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbb441e2a6d38efa6e9c8cc110b4ce30
+2026-04-02 12:28:19 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to enter the value no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbb441e2a6d38efa6e9c8cc110b4ce30, findElement {value=//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62687}, goog:processID: 32716, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62687/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbb441e2a6d38efa6e9c8cc110b4ce30
+2026-04-02 12:29:20 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //button[@type='submit'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62687}, goog:processID: 32716, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62687/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbb441e2a6d38efa6e9c8cc110b4ce30
+2026-04-02 12:29:52 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit']"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbb441e2a6d38efa6e9c8cc110b4ce30, findElement {value=//button[@type='submit'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62687}, goog:processID: 32716, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62687/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbb441e2a6d38efa6e9c8cc110b4ce30
+2026-04-02 12:30:42 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to locate element no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[3]"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbb441e2a6d38efa6e9c8cc110b4ce30, findElement {value= //div[@class='oxd-table-card']/div/div[3], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62687}, goog:processID: 32716, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62687/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbb441e2a6d38efa6e9c8cc110b4ce30
+2026-04-02 12:31:15 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath:  //div[@class='oxd-table-card']/div/div[3] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62687}, goog:processID: 32716, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62687/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbb441e2a6d38efa6e9c8cc110b4ce30
+2026-04-02 12:31:25 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to compate texts no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[3]"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dbb441e2a6d38efa6e9c8cc110b4ce30, findElement {value= //div[@class='oxd-table-card']/div/div[3], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62687}, goog:processID: 32716, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62687/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbb441e2a6d38efa6e9c8cc110b4ce30
+2026-04-02 12:39:50 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58766}, goog:processID: 47304, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58766/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4fa8e2663b5fced8d3ea1afe7dd60f97
+2026-04-02 12:40:40 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to enter the value no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4fa8e2663b5fced8d3ea1afe7dd60f97, findElement {using=xpath, value=//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58766}, goog:processID: 47304, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58766/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4fa8e2663b5fced8d3ea1afe7dd60f97
+2026-04-02 12:40:47 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4fa8e2663b5fced8d3ea1afe7dd60f97, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58766}, goog:processID: 47304, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58766/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4fa8e2663b5fced8d3ea1afe7dd60f97
+2026-04-02 12:40:47 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4fa8e2663b5fced8d3ea1afe7dd60f97, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58766}, goog:processID: 47304, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58766/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4fa8e2663b5fced8d3ea1afe7dd60f97
+2026-04-02 12:40:47 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to locate element Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4fa8e2663b5fced8d3ea1afe7dd60f97, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58766}, goog:processID: 47304, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58766/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4fa8e2663b5fced8d3ea1afe7dd60f97
+2026-04-02 12:40:48 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4fa8e2663b5fced8d3ea1afe7dd60f97, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58766}, goog:processID: 47304, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58766/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4fa8e2663b5fced8d3ea1afe7dd60f97
+2026-04-02 12:40:48 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to compate texts Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4fa8e2663b5fced8d3ea1afe7dd60f97, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58766}, goog:processID: 47304, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58766/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4fa8e2663b5fced8d3ea1afe7dd60f97
+2026-04-02 12:41:47 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62803}, goog:processID: 20296, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62803/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 56391416e6b9faf582d361510b3ed9ce
+2026-04-02 12:42:34 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to enter the value no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input"}
+  (Session info: chrome=145.0.7632.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [56391416e6b9faf582d361510b3ed9ce, findElement {using=xpath, value=//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62803}, goog:processID: 20296, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62803/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 56391416e6b9faf582d361510b3ed9ce
+2026-04-02 12:42:36 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Diwi D not equals null
+2026-04-02 12:48:21 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d7e9d1d9c07213b386907a951ed7f24, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60609}, goog:processID: 47408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60609/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d7e9d1d9c07213b386907a951ed7f24
+2026-04-02 12:48:21 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to enter the value Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d7e9d1d9c07213b386907a951ed7f24, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60609}, goog:processID: 47408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60609/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d7e9d1d9c07213b386907a951ed7f24
+2026-04-02 12:48:21 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d7e9d1d9c07213b386907a951ed7f24, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60609}, goog:processID: 47408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60609/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d7e9d1d9c07213b386907a951ed7f24
+2026-04-02 12:48:21 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d7e9d1d9c07213b386907a951ed7f24, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60609}, goog:processID: 47408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60609/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d7e9d1d9c07213b386907a951ed7f24
+2026-04-02 12:48:21 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to locate element Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d7e9d1d9c07213b386907a951ed7f24, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60609}, goog:processID: 47408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60609/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d7e9d1d9c07213b386907a951ed7f24
+2026-04-02 12:48:21 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d7e9d1d9c07213b386907a951ed7f24, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60609}, goog:processID: 47408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60609/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d7e9d1d9c07213b386907a951ed7f24
+2026-04-02 12:48:21 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to compate texts Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d7e9d1d9c07213b386907a951ed7f24, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.160, chrome: {chromedriverVersion: 145.0.7632.117 (de4e5d6e13b..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60609}, goog:processID: 47408, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60609/devtoo..., se:cdpVersion: 145.0.7632.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d7e9d1d9c07213b386907a951ed7f24
+2026-04-02 12:50:14 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Prince not equals null
+2026-04-02 12:57:39 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Prince not equals null
+2026-04-02 12:58:28 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Prince not equals null
+2026-04-02 14:57:03 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Diwi D not equals Mahesh
+2026-04-02 14:57:21 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Diwi D not equals Prince
+2026-04-02 15:04:44 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Diwi D not equals Mahesh
+2026-04-02 15:05:02 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Diwi D not equals Prince
+2026-04-02 15:18:24 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //div[@role='listbox']//span[text()='Diwi D'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 43056, ms:edgeOptions: {debuggerAddress: localhost:58973}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58973/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f5e1a2abbc3c100459fbf3d1a6377e1b
+2026-04-02 15:18:55 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click no such element: Unable to locate element: {"method":"xpath","selector":"//div[@role='listbox']//span[text()='Diwi D']"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f5e1a2abbc3c100459fbf3d1a6377e1b, findElement {using=xpath, value=//div[@role='listbox']//span[text()='Diwi D']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 43056, ms:edgeOptions: {debuggerAddress: localhost:58973}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58973/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f5e1a2abbc3c100459fbf3d1a6377e1b
+2026-04-02 15:19:28 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='oxd-table-card']//div[text()='Mahesh U'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 43056, ms:edgeOptions: {debuggerAddress: localhost:58973}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58973/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f5e1a2abbc3c100459fbf3d1a6377e1b
+2026-04-02 15:20:49 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Element not displayed no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='oxd-table-card']//div[text()='Mahesh U']"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [f5e1a2abbc3c100459fbf3d1a6377e1b, findElement {using=xpath, value=//div[@class='oxd-table-card']//div[text()='Mahesh U']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 43056, ms:edgeOptions: {debuggerAddress: localhost:58973}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58973/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f5e1a2abbc3c100459fbf3d1a6377e1b
+2026-04-02 15:22:21 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //div[@role='listbox']//span[text()='Prince'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 20356, ms:edgeOptions: {debuggerAddress: localhost:54926}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54926/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ce5cd6b9dfe18b83c4945172c1f2936a
+2026-04-02 15:22:22 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ce5cd6b9dfe18b83c4945172c1f2936a, findElement {using=xpath, value=//div[@role='listbox']//span[text()='Prince']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 20356, ms:edgeOptions: {debuggerAddress: localhost:54926}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54926/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ce5cd6b9dfe18b83c4945172c1f2936a
+2026-04-02 15:22:22 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ce5cd6b9dfe18b83c4945172c1f2936a, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 20356, ms:edgeOptions: {debuggerAddress: localhost:54926}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54926/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ce5cd6b9dfe18b83c4945172c1f2936a
+2026-04-02 15:22:22 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ce5cd6b9dfe18b83c4945172c1f2936a, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 20356, ms:edgeOptions: {debuggerAddress: localhost:54926}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54926/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ce5cd6b9dfe18b83c4945172c1f2936a
+2026-04-02 15:22:22 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ce5cd6b9dfe18b83c4945172c1f2936a, findElement {using=xpath, value=//div[@class='oxd-table-card']//div[text()='Prince P']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 20356, ms:edgeOptions: {debuggerAddress: localhost:54926}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54926/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ce5cd6b9dfe18b83c4945172c1f2936a
+2026-04-02 15:22:22 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Element not displayed invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [ce5cd6b9dfe18b83c4945172c1f2936a, findElement {using=xpath, value=//div[@class='oxd-table-card']//div[text()='Prince P']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 20356, ms:edgeOptions: {debuggerAddress: localhost:54926}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54926/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ce5cd6b9dfe18b83c4945172c1f2936a
+2026-04-02 15:24:05 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d08a01850d3620e5dfa1bb1c2cafa575, findElement {using=xpath, value=//div[@role='listbox']//span[text()='Diwi D']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 39524, ms:edgeOptions: {debuggerAddress: localhost:50213}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50213/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d08a01850d3620e5dfa1bb1c2cafa575
+2026-04-02 15:24:06 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d08a01850d3620e5dfa1bb1c2cafa575, findElement {using=xpath, value=//div[@role='listbox']//span[text()='Diwi D']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 39524, ms:edgeOptions: {debuggerAddress: localhost:50213}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50213/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d08a01850d3620e5dfa1bb1c2cafa575
+2026-04-02 15:24:06 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d08a01850d3620e5dfa1bb1c2cafa575, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 39524, ms:edgeOptions: {debuggerAddress: localhost:50213}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50213/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d08a01850d3620e5dfa1bb1c2cafa575
+2026-04-02 15:24:06 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d08a01850d3620e5dfa1bb1c2cafa575, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 39524, ms:edgeOptions: {debuggerAddress: localhost:50213}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50213/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d08a01850d3620e5dfa1bb1c2cafa575
+2026-04-02 15:24:06 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to locate element invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d08a01850d3620e5dfa1bb1c2cafa575, findElement {using=xpath, value= //div[@class='oxd-table-card']/div/div[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 39524, ms:edgeOptions: {debuggerAddress: localhost:50213}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50213/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d08a01850d3620e5dfa1bb1c2cafa575
+2026-04-02 15:24:06 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d08a01850d3620e5dfa1bb1c2cafa575, findElement {using=xpath, value=//div[@class='oxd-table-card']//div[text()='Mahesh U']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 39524, ms:edgeOptions: {debuggerAddress: localhost:50213}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50213/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d08a01850d3620e5dfa1bb1c2cafa575
+2026-04-02 15:24:07 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Element not displayed invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d08a01850d3620e5dfa1bb1c2cafa575, findElement {using=xpath, value=//div[@class='oxd-table-card']//div[text()='Mahesh U']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 39524, ms:edgeOptions: {debuggerAddress: localhost:50213}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50213/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d08a01850d3620e5dfa1bb1c2cafa575
+2026-04-02 15:24:13 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to enter the value no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bdd86789b889675706336584b8f4d2d6, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 47152, ms:edgeOptions: {debuggerAddress: localhost:58066}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58066/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bdd86789b889675706336584b8f4d2d6
+2026-04-02 15:24:43 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.cssSelector: input[type='password'] (tried for 30 second(s) with 500 milliseconds interval)
+2026-04-02 15:24:43 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to enter the value no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bdd86789b889675706336584b8f4d2d6, findElement {using=css selector, value=input[type='password']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 47152, ms:edgeOptions: {debuggerAddress: localhost:58066}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58066/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bdd86789b889675706336584b8f4d2d6
+2026-04-02 15:25:14 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //button[text()=' Login '] (tried for 30 second(s) with 500 milliseconds interval)
+2026-04-02 15:25:14 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bdd86789b889675706336584b8f4d2d6, findElement {using=xpath, value=//button[text()=' Login ']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 47152, ms:edgeOptions: {debuggerAddress: localhost:58066}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58066/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bdd86789b889675706336584b8f4d2d6
+2026-04-02 15:25:44 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='PIM'] (tried for 30 second(s) with 500 milliseconds interval)
+2026-04-02 15:25:44 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bdd86789b889675706336584b8f4d2d6, findElement {using=xpath, value=//span[text()='PIM']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 47152, ms:edgeOptions: {debuggerAddress: localhost:58066}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58066/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bdd86789b889675706336584b8f4d2d6
+2026-04-02 15:26:14 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input (tried for 30 second(s) with 500 milliseconds interval)
+2026-04-02 15:26:15 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to enter the value no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bdd86789b889675706336584b8f4d2d6, findElement {using=xpath, value=//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 47152, ms:edgeOptions: {debuggerAddress: localhost:58066}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58066/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bdd86789b889675706336584b8f4d2d6
+2026-04-02 15:26:47 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //div[@role='listbox']//span[text()='Prince'] (tried for 30 second(s) with 500 milliseconds interval)
+2026-04-02 15:26:47 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bdd86789b889675706336584b8f4d2d6, findElement {using=xpath, value=//div[@role='listbox']//span[text()='Prince']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 47152, ms:edgeOptions: {debuggerAddress: localhost:58066}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58066/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bdd86789b889675706336584b8f4d2d6
+2026-04-02 15:27:17 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //button[@type='submit'] (tried for 30 second(s) with 500 milliseconds interval)
+2026-04-02 15:27:17 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to click no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bdd86789b889675706336584b8f4d2d6, findElement {using=xpath, value=//button[@type='submit']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 47152, ms:edgeOptions: {debuggerAddress: localhost:58066}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58066/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bdd86789b889675706336584b8f4d2d6
+2026-04-02 15:27:17 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - unable to locate element no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bdd86789b889675706336584b8f4d2d6, findElement {using=xpath, value= //div[@class='oxd-table-card']/div/div[3]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 47152, ms:edgeOptions: {debuggerAddress: localhost:58066}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58066/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bdd86789b889675706336584b8f4d2d6
+2026-04-02 15:27:48 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='oxd-table-card']//div[text()='Prince P'] (tried for 30 second(s) with 500 milliseconds interval)
+2026-04-02 15:27:48 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Element not displayed no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [bdd86789b889675706336584b8f4d2d6, findElement {using=xpath, value=//div[@class='oxd-table-card']//div[text()='Prince P']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 47152, ms:edgeOptions: {debuggerAddress: localhost:58066}, msedge: {msedgedriverVersion: 146.0.3856.84 (fe100ed2d0fb..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58066/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bdd86789b889675706336584b8f4d2d6
+2026-04-02 15:42:16 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Mahesh not equals null
+2026-04-02 15:44:09 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Mahesh not equals null null
+2026-04-02 15:48:37 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Mahesh not equals Mahesht
+2026-04-02 16:00:09 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Mahesh not equals Mahesht
+2026-04-02 17:39:44 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Mahesh not equals Mahesht
+2026-04-02 18:03:16 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Mahesh not equals Mahesh M
+2026-04-02 18:03:35 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Mahesh not equals Mahesh M
+2026-04-02 18:03:54 [TestNG-test-OrangeHRMTest-1] ERROR ActionDriver - Texts are not  matching Mahesh not equals Mahesh M
+2026-04-02 20:06:46 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-02 20:07:21 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-02 20:07:35 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - Texts are not  matching Invalid credentials not equals Invalid credentials1
+2026-04-02 20:34:03 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='oxd-brand-banner']/img (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 2656, ms:edgeOptions: {debuggerAddress: localhost:59364}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59364/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d32cba9b3d79aad975739186423a1a4
+2026-04-02 20:34:04 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='PIM'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:34:15 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to click element not interactable
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b04c1792ce2115a3821752c06593d385, clickElement {id=f.C6D824E7D70CEB69B0A3C9BA91E05B81.d.AB9D821EE86F135E34E5D780927FE6F3.e.39}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (b04c1792ce2115a3821752c06593d385)] -> xpath: //span[text()='PIM']]
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:34:15 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //span[text()='Admin'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 40404, ms:edgeOptions: {debuggerAddress: localhost:63207}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63207/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2f85dc42dfb5f2a7cd93a14726b3569f
+2026-04-02 20:34:40 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='oxd-brand-banner']/img (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 3304, ms:edgeOptions: {debuggerAddress: localhost:52057}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52057/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1cc41c8e44653425234aad609b9ea44d
+2026-04-02 20:34:46 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:34:50 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //span[text()='Admin'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 14912, ms:edgeOptions: {debuggerAddress: localhost:51612}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51612/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dba5cdbd5927d5633b8063bd5d288e61
+2026-04-02 20:35:24 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='oxd-brand-banner']/img (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 40496, ms:edgeOptions: {debuggerAddress: localhost:59785}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59785/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fc67e52afd68bc07bbfefed01fe8f3c7
+2026-04-02 20:35:36 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to enter the value no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b04c1792ce2115a3821752c06593d385, findElement {value=//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:35:42 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //span[text()='Admin'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 28072, ms:edgeOptions: {debuggerAddress: localhost:63859}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63859/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2f56caa8779ef1f2c6c28c9c4c3abecf
+2026-04-02 20:36:05 [TestNG-test-OrangeHRMTest-4] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='oxd-brand-banner']/img (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29412, ms:edgeOptions: {debuggerAddress: localhost:55817}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55817/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1ef240947038f5b7072c946c65e46897
+2026-04-02 20:36:20 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //span[text()='Admin'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 13200, ms:edgeOptions: {debuggerAddress: localhost:56962}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56962/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3dec0bbaa3c8c1865435ee2f4085a9ae
+2026-04-02 20:36:38 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //button[@type='submit'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:37:08 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to click no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit']"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b04c1792ce2115a3821752c06593d385, findElement {value=//button[@type='submit'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:37:58 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to locate element no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[3]"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b04c1792ce2115a3821752c06593d385, findElement {value= //div[@class='oxd-table-card']/div/div[3], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:38:30 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath:  //div[@class='oxd-table-card']/div/div[3] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:38:40 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to compate texts no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[3]"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b04c1792ce2115a3821752c06593d385, findElement {value= //div[@class='oxd-table-card']/div/div[3], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:39:11 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath:  //div[@class='oxd-table-card']/div/div[4] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:39:21 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to compate texts no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[4]"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b04c1792ce2115a3821752c06593d385, findElement {value= //div[@class='oxd-table-card']/div/div[4], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 45332, ms:edgeOptions: {debuggerAddress: localhost:59363}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59363/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b04c1792ce2115a3821752c06593d385
+2026-04-02 20:40:01 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='PIM'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:40:11 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to click element not interactable
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2e354cf9a0521adb1f22093f905081bb, clickElement {id=f.D1414D8F2019DC9CB32F22AB6C360065.d.FBB7796514AE880CA4E19DB9C1E1F440.e.38}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (2e354cf9a0521adb1f22093f905081bb)] -> xpath: //span[text()='PIM']]
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:40:42 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:41:32 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to enter the value no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2e354cf9a0521adb1f22093f905081bb, findElement {value=//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:42:33 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //button[@type='submit'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:43:04 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to click no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit']"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2e354cf9a0521adb1f22093f905081bb, findElement {value=//button[@type='submit'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:43:54 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to locate element no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[3]"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2e354cf9a0521adb1f22093f905081bb, findElement {value= //div[@class='oxd-table-card']/div/div[3], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:44:26 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath:  //div[@class='oxd-table-card']/div/div[3] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:44:36 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to compate texts no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[3]"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2e354cf9a0521adb1f22093f905081bb, findElement {value= //div[@class='oxd-table-card']/div/div[3], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:45:07 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath:  //div[@class='oxd-table-card']/div/div[4] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:45:17 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to compate texts no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[4]"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [2e354cf9a0521adb1f22093f905081bb, findElement {value= //div[@class='oxd-table-card']/div/div[4], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 24408, ms:edgeOptions: {debuggerAddress: localhost:59299}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e354cf9a0521adb1f22093f905081bb
+2026-04-02 20:45:59 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //span[text()='PIM'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edf33aef28e7fa73109785ff2ed53587
+2026-04-02 20:46:16 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to click element not interactable
+  (Session info: MicrosoftEdge=146.0.3856.84)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [edf33aef28e7fa73109785ff2ed53587, clickElement {id=f.FD26C93745AB191DB39E01C58FAFC0E3.d.46215BD86DFFF3EA965E17A1BA3ABA72.e.30}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (edf33aef28e7fa73109785ff2ed53587)] -> xpath: //span[text()='PIM']]
+Session ID: edf33aef28e7fa73109785ff2ed53587
+2026-04-02 20:46:48 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath: //label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edf33aef28e7fa73109785ff2ed53587
+2026-04-02 20:47:38 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to enter the value no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [edf33aef28e7fa73109785ff2ed53587, findElement {value=//label[text()='Employee Name']/parent::div/following-sibling::div/div/div/input, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edf33aef28e7fa73109785ff2ed53587
+2026-04-02 20:48:39 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not clickable Expected condition failed: waiting for element to be clickable: By.xpath: //button[@type='submit'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edf33aef28e7fa73109785ff2ed53587
+2026-04-02 20:49:10 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to click no such element: Unable to locate element: {"method":"xpath","selector":"//button[@type='submit']"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [edf33aef28e7fa73109785ff2ed53587, findElement {value=//button[@type='submit'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edf33aef28e7fa73109785ff2ed53587
+2026-04-02 20:50:00 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to locate element no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[3]"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [edf33aef28e7fa73109785ff2ed53587, findElement {value= //div[@class='oxd-table-card']/div/div[3], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edf33aef28e7fa73109785ff2ed53587
+2026-04-02 20:50:32 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath:  //div[@class='oxd-table-card']/div/div[3] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edf33aef28e7fa73109785ff2ed53587
+2026-04-02 20:50:43 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to compate texts no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[3]"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [edf33aef28e7fa73109785ff2ed53587, findElement {value= //div[@class='oxd-table-card']/div/div[3], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edf33aef28e7fa73109785ff2ed53587
+2026-04-02 20:51:14 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - element is not visible Expected condition failed: waiting for visibility of element located by By.xpath:  //div[@class='oxd-table-card']/div/div[4] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edf33aef28e7fa73109785ff2ed53587
+2026-04-02 20:51:24 [TestNG-test-OrangeHRMTest-5] ERROR ActionDriver - unable to compate texts no such element: Unable to locate element: {"method":"xpath","selector":" //div[@class='oxd-table-card']/div/div[4]"}
+  (Session info: MicrosoftEdge=146.0.3856.84)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [edf33aef28e7fa73109785ff2ed53587, findElement {value= //div[@class='oxd-table-card']/div/div[4], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 146.0.3856.84, fedcm:accounts: true, goog:processID: 29628, ms:edgeOptions: {debuggerAddress: localhost:62182}, msedge: {msedgedriverVersion: 146.0.3856.97 (79f6730cd02c..., userDataDir: C:\Users\HELLOP~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62182/devtoo..., se:cdpVersion: 146.0.3856.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: edf33aef28e7fa73109785ff2ed53587
