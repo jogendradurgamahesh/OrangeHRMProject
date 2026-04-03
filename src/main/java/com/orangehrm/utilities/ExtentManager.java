@@ -27,11 +27,16 @@ public class ExtentManager {
 	// initialize the extent report
 	public synchronized static ExtentReports getReporter() {
 		if (extent == null) {
-			String reportPath = System.getProperty("user.dir") + "/src/test/resources/ExtentReport/ExtentReport.html";
+			//String reportPath = System.getProperty("user.dir") + "/src/test/resources/ExtentReport/ExtentReport.html";
+			String reportPath = System.getProperty("user.dir") 
+				    + "/test-output/ExtentReport.html";
 			ExtentSparkReporter spark = new ExtentSparkReporter(reportPath);
 			spark.config().setReportName("Automation Test Report");
 			spark.config().setDocumentTitle("OrangeHRM Report");
 			spark.config().setTheme(Theme.DARK);
+			
+			// ⭐ THIS LINE FIXES YOUR ISSUE
+			spark.config().setOfflineMode(true);
 
 			extent = new ExtentReports();
 			extent.attachReporter(spark);
