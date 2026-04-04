@@ -45,7 +45,7 @@ public class LoginPageTest extends BaseClass{
 		 ExtentManager.logStep("Navigating to Login Page entering username and password");
 //		loginPage.login("Admin", "admin1234");
 		 loginPage.login(username, password);
-		String expResult="Invalid credentials";
+		String expResult="Invalid credentials1";
 		Assert.assertTrue(loginPage.verifyErrorMessage(expResult),"Test failed:Invalid Msg");
 		ExtentManager.logStep("Validation Successful");
 		ExtentManager.logStep("Logged out Successfully!");
