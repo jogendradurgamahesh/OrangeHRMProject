@@ -7463,3 +7463,106 @@ Session ID: edf33aef28e7fa73109785ff2ed53587
 2026-04-03 17:29:45 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Logout
 2026-04-03 17:29:47 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element clicked---> Element with text: Logout
 2026-04-03 17:29:51 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Webdriver instance is closed
+2026-04-03 17:38:23 [main] INFO  BaseClass - config.prop is loaded
+2026-04-03 17:38:40 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Edge driver instance is created
+2026-04-03 17:38:40 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - Edge driver instance is created
+2026-04-03 17:38:40 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Edge driver instance is created
+2026-04-03 17:38:40 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Edge driver instance is created
+2026-04-03 17:38:40 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Edge driver instance is created
+2026-04-03 17:38:50 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - Wd instances created
+2026-04-03 17:38:50 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initlialized for thread: 38
+2026-04-03 17:38:52 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Wd instances created
+2026-04-03 17:38:52 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 39
+2026-04-03 17:38:52 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Wd instances created
+2026-04-03 17:38:52 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - ActionDriver initlialized for thread: 41
+2026-04-03 17:38:52 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - Wd instances created
+2026-04-03 17:38:52 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initlialized for thread: 37
+2026-04-03 17:38:52 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Wd instances created
+2026-04-03 17:38:52 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 40
+2026-04-03 17:38:54 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with name: username
+2026-04-03 17:38:55 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Applied border to the color green to element Element with name: username
+2026-04-03 17:38:55 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied border to the color green to element Element with name: username
+2026-04-03 17:38:55 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text Element with name: username----> Admin
+2026-04-03 17:38:56 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with name: password
+2026-04-03 17:38:56 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Entered text Element with name: username----> mahesh
+2026-04-03 17:38:56 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text Element with name: username----> Mahesh
+2026-04-03 17:38:57 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied border to the color green to element Element with name: password
+2026-04-03 17:38:57 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Applied border to the color green to element Element with name: password
+2026-04-03 17:38:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text Element with name: password----> admin1234
+2026-04-03 17:38:58 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - Webdriver instance is closed
+2026-04-03 17:38:58 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - Webdriver instance is closed
+2026-04-03 17:38:58 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text Element with name: password----> Mahesh@123
+2026-04-03 17:38:58 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Entered text Element with name: password----> Mahesh@123
+2026-04-03 17:38:58 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Login
+2026-04-03 17:38:58 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied border to the color green to element Element with text: Login
+2026-04-03 17:38:58 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Applied border to the color green to element Element with text: Login
+2026-04-03 17:39:00 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Element clicked---> Element with text: Login
+2026-04-03 17:39:00 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element clicked---> Element with text: Login
+2026-04-03 17:39:01 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element clicked---> Element with text: Login
+2026-04-03 17:39:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Invalid credentials
+2026-04-03 17:39:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Texts are matching Invalid credentials equals Invalid credentials
+2026-04-03 17:39:03 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Webdriver instance is closed
+2026-04-03 17:39:06 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Edge driver instance is created
+2026-04-03 17:39:07 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied border to the color green to element Locator: By.xpath: //div[@class='oxd-brand-banner']/img
+2026-04-03 17:39:07 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Applied border to the color green to element Element with text: PIM
+2026-04-03 17:39:07 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element Displayed Locator: By.xpath: //div[@class='oxd-brand-banner']/img
+2026-04-03 17:39:10 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Wd instances created
+2026-04-03 17:39:10 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 39
+2026-04-03 17:39:10 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with name: username
+2026-04-03 17:39:10 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Webdriver instance is closed
+2026-04-03 17:39:11 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text Element with name: username----> Mahesh
+2026-04-03 17:39:11 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with name: password
+2026-04-03 17:39:12 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Element clicked---> Element with text: PIM
+2026-04-03 17:39:13 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Edge driver instance is created
+2026-04-03 17:39:14 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text Element with name: password----> Mahesh@123
+2026-04-03 17:39:14 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Applied border to the color green to element Element with placeHolder: Type for hints...
+2026-04-03 17:39:14 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Login
+2026-04-03 17:39:15 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element clicked---> Element with text: Login
+2026-04-03 17:39:15 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Entered text Element with placeHolder: Type for hints...----> Mahesh
+2026-04-03 17:39:15 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Applied border to the color green to element Element with text: Search
+2026-04-03 17:39:16 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Element clicked---> Element with text: Search
+2026-04-03 17:39:16 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Applied border to the color green to element Element with text: Mahesh
+2026-04-03 17:39:16 [TestNG-test-OrangeHRMTest-5] INFO  DBConnection - starting DB connection
+2026-04-03 17:39:17 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Wd instances created
+2026-04-03 17:39:17 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initlialized for thread: 40
+2026-04-03 17:39:17 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied border to the color green to element Element with name: username
+2026-04-03 17:39:17 [TestNG-test-OrangeHRMTest-5] INFO  DBConnection - Connection successfull
+2026-04-03 17:39:17 [TestNG-test-OrangeHRMTest-5] INFO  DBConnection - Executing query select emp_firstname, emp_middle_name,emp_lastname from hs_hr_employee where emp_number=1
+2026-04-03 17:39:17 [TestNG-test-OrangeHRMTest-5] INFO  DBConnection - Query executed successfully
+2026-04-03 17:39:17 [TestNG-test-OrangeHRMTest-5] INFO  DBConnection - Emp data fetched successfully {last_name=U, middle_name=, first_name=Mahesh}
+2026-04-03 17:39:18 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text Element with name: username----> Mahesh
+2026-04-03 17:39:18 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Applied border to the color green to element Element with text: Mahesh
+2026-04-03 17:39:18 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Texts are matching Mahesh equals Mahesh
+2026-04-03 17:39:19 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied border to the color green to element Element with name: password
+2026-04-03 17:39:19 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Admin
+2026-04-03 17:39:20 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Applied border to the color green to element Element with text: U
+2026-04-03 17:39:20 [TestNG-test-OrangeHRMTest-5] INFO  ActionDriver - Texts are matching U equals U
+2026-04-03 17:39:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element Displayed Element with text: Admin
+2026-04-03 17:39:20 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Entered text Element with name: password----> Mahesh@123
+2026-04-03 17:39:21 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied border to the color green to element Element with text: Login
+2026-04-03 17:39:21 [TestNG-test-OrangeHRMTest-5] INFO  BaseClass - Webdriver instance is closed
+2026-04-03 17:39:21 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element clicked---> Element with text: Login
+2026-04-03 17:39:21 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Mahesh U
+2026-04-03 17:39:22 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element clicked---> Element with text: Mahesh U
+2026-04-03 17:39:22 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Logout
+2026-04-03 17:39:23 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element clicked---> Element with text: Logout
+2026-04-03 17:39:24 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Applied border to the color green to element Locator: By.xpath: //div[@class='oxd-brand-banner']/img
+2026-04-03 17:39:24 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - Element Displayed Locator: By.xpath: //div[@class='oxd-brand-banner']/img
+2026-04-03 17:39:25 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - Webdriver instance is closed
+2026-04-03 17:39:28 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Webdriver instance is closed
+2026-04-03 17:39:30 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Edge driver instance is created
+2026-04-03 17:39:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Wd instances created
+2026-04-03 17:39:32 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initlialized for thread: 39
+2026-04-03 17:39:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with name: username
+2026-04-03 17:39:32 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text Element with name: username----> Mahesh
+2026-04-03 17:39:33 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with name: password
+2026-04-03 17:39:33 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Entered text Element with name: password----> Mahesh@123
+2026-04-03 17:39:33 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Login
+2026-04-03 17:39:33 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element clicked---> Element with text: Login
+2026-04-03 17:39:35 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Admin
+2026-04-03 17:39:35 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element Displayed Element with text: Admin
+2026-04-03 17:39:36 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Mahesh U
+2026-04-03 17:39:36 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element clicked---> Element with text: Mahesh U
+2026-04-03 17:39:36 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Applied border to the color green to element Element with text: Logout
+2026-04-03 17:39:37 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - Element clicked---> Element with className: oxd-userdropdown-link
+2026-04-03 17:39:42 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - Webdriver instance is closed
