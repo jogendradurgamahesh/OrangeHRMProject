@@ -27,12 +27,22 @@ pipeline {
 
     stages {
 		
+		  stage('Checkout') {
+            steps {
+                git branch: 'main', url: 'https://github.com/jogendradurgamahesh/OrangeHRMProject.git'
+            }
+        }
+
 		
 		 stage('Start Selenium Grid via Docker Compose') {
             steps {
                 script {
                     echo "Starting Selenium Grid with Docker Compose..."
-                    bat "docker compose -f ${COMPOSE_PATH}/docker-compose.yml up -d"
+                       bat """
+                        cd "${WORKSPACE}/docker"
+                        docker compose up -d
+                        """    
+
                     echo "Waiting for Selenium Grid to be ready..."
                     sleep 30 // Add a wait if needed
                 }
@@ -41,12 +51,7 @@ pipeline {
 		
 		
 
-        stage('Checkout') {
-            steps {
-                git branch: 'main', url: 'https://github.com/jogendradurgamahesh/OrangeHRMProject.git'
-            }
-        }
-
+      
         stage('Build & Test') {
             steps {
                 bat 'mvn clean test -DseleniumGrid=true'
@@ -59,7 +64,10 @@ pipeline {
             steps {
                 script {
                     echo "Stopping Selenium Grid..."
-                    bat "docker compose -f ${COMPOSE_PATH}/docker-compose.yml down"
+                     bat """
+                    cd "${WORKSPACE}/docker"
+                    docker compose down
+                    """
                 }
             }
         }
