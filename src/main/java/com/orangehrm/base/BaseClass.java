@@ -3,6 +3,8 @@ package com.orangehrm.base;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.lang.reflect.Method;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.time.Duration;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
@@ -16,10 +18,12 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.ITestContext;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.Parameters;
 import org.testng.asserts.SoftAssert;
 
 import com.orangehrm.actiondriver.ActionDriver;
@@ -62,18 +66,20 @@ public class BaseClass {
 
 	
 	@BeforeMethod
-	public synchronized void setup(Method method, ITestContext context) throws IOException {
+	//public synchronized void setup(Method method, ITestContext context) throws IOException {
+	@Parameters("browser")
+	public synchronized void setup(String browser) throws IOException {
 		System.out.println("Setting up webdriver for: "+this.getClass().getSimpleName());
-		launchBrowser();
+		launchBrowser(browser);
 		configureBrowser();
 		staticWait(2);
 		
-//		logger.info("Webdriver initialized and Browser is maxmized ");
-//		logger.trace("Trace msg");
-//		logger.error("Error msg");
-//		logger.debug("Debug msg");
-//		logger.fatal("Fatal a msg");
-//		logger.warn("Warn msg");
+		logger.info("Webdriver initialized and Browser is maxmized ");
+		logger.trace("Trace msg");
+		logger.error("Error msg");
+		logger.debug("Debug msg");
+		logger.fatal("Fatal a msg");
+		logger.warn("Warn msg");
 		
 /*		//inititlaize actionDriver only once-->Singleton pattern
 		if(actionDriver==null) {
@@ -84,7 +90,7 @@ public class BaseClass {
 	}   */
 		
 		 // attach driver to current test thread
-	    context.setAttribute("driver", getDriver());
+	    //context.setAttribute("driver", getDriver());
 		
 		//initialize actiondriver for the current thread
 		actionDriver.set(new ActionDriver(getDriver()));
@@ -93,9 +99,44 @@ public class BaseClass {
 		
 
 	//initialize the webdriver based on browser defined in config properties
-	private synchronized void launchBrowser() {
+	private synchronized void launchBrowser(String browser) {
 
-		String browser=prop.getProperty("browser");
+		//String browser=prop.getProperty("browser");
+		
+		boolean seleniumGrid = Boolean.parseBoolean(prop.getProperty("seleniumGrid"));
+		String gridURL = prop.getProperty("gridURL");
+		
+		if (seleniumGrid) {
+		    try {
+		        if (browser.equalsIgnoreCase("chrome")) {
+		            ChromeOptions options = new ChromeOptions();
+		            //options.addArguments("--headless", "--disable-gpu", "--window-size=1920,1080");
+		            options.addArguments("--start-maximized", "--disable-gpu", "--window-size=1920,1080");
+		            driver.set(new RemoteWebDriver(new URL(gridURL), options));
+		        } else if (browser.equalsIgnoreCase("firefox")) {
+		            FirefoxOptions options = new FirefoxOptions();
+		            options.addArguments("-headless");
+		            driver.set(new RemoteWebDriver(new URL(gridURL), options));
+		        } else if (browser.equalsIgnoreCase("edge")) {
+		            EdgeOptions options = new EdgeOptions();
+		         //   options.addArguments("--headless=new", "--disable-gpu","--no-sandbox","--disable-dev-shm-usage");
+		            options.addArguments(
+		            	    "--no-sandbox",
+		            	    "--disable-dev-shm-usage",
+		            	    "--disable-gpu",
+		            	    "--window-size=1920,1080"
+		            	);
+		            driver.set(new RemoteWebDriver(new URL(gridURL), options));
+		        } else {
+		            throw new IllegalArgumentException("Browser Not Supported: " + browser);
+		        }
+		        logger.info("RemoteWebDriver instance created for Grid in headless mode");
+		    } catch (MalformedURLException e) {
+		        throw new RuntimeException("Invalid Grid URL", e);
+		    }
+		}
+		
+		else {
 
 		if(browser.equalsIgnoreCase("chrome")) {
 			
@@ -151,17 +192,26 @@ public class BaseClass {
 
 	}
 
-
+	}
 	//configure browser setting like implicir wait,maximize the browser and navigate to url
 	private void configureBrowser() {
 		//implicit wait
 		int implicitWait=Integer.parseInt(prop.getProperty("implicitWait"));
 //		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(implicitWait));
+		//boolean seleniumGrid = Boolean.parseBoolean(System.getProperty("seleniumGrid", prop.getProperty("seleniumGrid")));
 		getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(implicitWait)); //we can use getDriver() or driver.get()
 
 		//maximize the window
 		//getDriver().manage().window().maximize();  //we can use getDriver() or driver.get()
 
+		
+//		if (seleniumGrid) {
+//			getDriver().get(prop.getProperty("url_grid"));
+//		} else {
+//			getDriver().get(prop.getProperty("url_local"));
+//		}
+		
+		
 		//navigate to url
 		String url=prop.getProperty("url");
 		try {
