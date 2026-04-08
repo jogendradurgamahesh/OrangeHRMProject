@@ -49,6 +49,6 @@ services:
     image: selenium/hub:4.41.0
     container_name: selenium-hub
     ports:
-      - "4442:4442"
-      - "4443:4443"
-      - "4444:4444"
+      - "4452:4442"
+      - "4453:4443"
+      - "4454:4444"
