@@ -5,7 +5,41 @@ pipeline {
         maven 'TestMaven' 
     }
 
+
+
+   environment {
+        COMPOSE_PATH = "${WORKSPACE}/docker" // 🔁 Adjust if compose file is elsewhere
+        SELENIUM_GRID = "true"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     stages {
+		
+		
+		 stage('Start Selenium Grid via Docker Compose') {
+            steps {
+                script {
+                    echo "Starting Selenium Grid with Docker Compose..."
+                    bat "docker compose -f ${COMPOSE_PATH}\\docker-compose.yml up -d"
+                    echo "Waiting for Selenium Grid to be ready..."
+                    sleep 30 // Add a wait if needed
+                }
+            }
+        }
+		
+		
 
         stage('Checkout') {
             steps {
@@ -15,10 +49,22 @@ pipeline {
 
         stage('Build & Test') {
             steps {
-                bat 'mvn clean test'
+                bat 'mvn clean test -DseleniumGrid=true'
             }
         }
 
+
+
+  stage('Stop Selenium Grid') {
+            steps {
+                script {
+                    echo "Stopping Selenium Grid..."
+                    bat "docker compose -f ${COMPOSE_PATH}\\docker-compose.yml down"
+                }
+            }
+        }
+        
+        
         stage('Publish Reports') {
             steps {
                 publishHTML(target: [

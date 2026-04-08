@@ -103,7 +103,10 @@ public class BaseClass {
 
 		//String browser=prop.getProperty("browser");
 		
-		boolean seleniumGrid = Boolean.parseBoolean(prop.getProperty("seleniumGrid"));
+		//boolean seleniumGrid = Boolean.parseBoolean(prop.getProperty("seleniumGrid"));
+		boolean seleniumGrid = Boolean.parseBoolean(
+			    System.getProperty("seleniumGrid", prop.getProperty("seleniumGrid"))
+			);
 		String gridURL = prop.getProperty("gridURL");
 		
 		if (seleniumGrid) {
@@ -198,27 +201,29 @@ public class BaseClass {
 		//implicit wait
 		int implicitWait=Integer.parseInt(prop.getProperty("implicitWait"));
 //		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(implicitWait));
-		//boolean seleniumGrid = Boolean.parseBoolean(System.getProperty("seleniumGrid", prop.getProperty("seleniumGrid")));
+		boolean seleniumGrid = Boolean.parseBoolean(System.getProperty("seleniumGrid", prop.getProperty("seleniumGrid")));
 		getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(implicitWait)); //we can use getDriver() or driver.get()
 
 		//maximize the window
 		//getDriver().manage().window().maximize();  //we can use getDriver() or driver.get()
 
 		
-//		if (seleniumGrid) {
-//			getDriver().get(prop.getProperty("url_grid"));
-//		} else {
-//			getDriver().get(prop.getProperty("url_local"));
-//		}
+		if (seleniumGrid) {
+			getDriver().get(prop.getProperty("url_grid"));
+		} else {
+			getDriver().get(prop.getProperty("url"));
+		}
 		
+		System.out.println("Running on Grid: " + seleniumGrid);
+		System.out.println("Opening URL: " + prop.getProperty("url_grid"));
 		
 		//navigate to url
-		String url=prop.getProperty("url");
-		try {
-			getDriver().get(url); ////we can use getDriver() or driver.get()
-		} catch (Exception e) {
-		System.out.println("Failed to navigate "+e.getMessage());
-		}
+//		String url=prop.getProperty("url");
+//		try {
+//			getDriver().get(url); ////we can use getDriver() or driver.get()
+//		} catch (Exception e) {
+//		System.out.println("Failed to navigate "+e.getMessage());
+//		}
 
 	}
 
