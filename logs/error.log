@@ -2103,3 +2103,19 @@ Session ID: f5bf622ef972debf79da72f94a0338e4
 2026-04-08 10:12:23 [TestNG-test-OrangeHRMTest_edge-1] FATAL BaseClass - Fatal a msg
 2026-04-08 10:12:41 [TestNG-test-OrangeHRMTest_edge-2] ERROR BaseClass - Error msg
 2026-04-08 10:12:41 [TestNG-test-OrangeHRMTest_edge-2] FATAL BaseClass - Fatal a msg
+2026-04-08 10:24:07 [TestNG-test-OrangeHRMTest_edge-2] ERROR BaseClass - Error msg
+2026-04-08 10:24:07 [TestNG-test-OrangeHRMTest_edge-2] FATAL BaseClass - Fatal a msg
+2026-04-08 10:24:08 [TestNG-test-OrangeHRMTest_edge-1] ERROR BaseClass - Error msg
+2026-04-08 10:24:08 [TestNG-test-OrangeHRMTest_edge-1] FATAL BaseClass - Fatal a msg
+2026-04-08 10:24:08 [TestNG-test-OrangeHRMTest_edge-3] ERROR BaseClass - Error msg
+2026-04-08 10:24:08 [TestNG-test-OrangeHRMTest_edge-3] FATAL BaseClass - Fatal a msg
+2026-04-08 10:24:32 [TestNG-test-OrangeHRMTest_edge-1] ERROR BaseClass - Error msg
+2026-04-08 10:24:32 [TestNG-test-OrangeHRMTest_edge-1] FATAL BaseClass - Fatal a msg
+2026-04-08 10:24:33 [TestNG-test-OrangeHRMTest_edge-2] ERROR BaseClass - Error msg
+2026-04-08 10:24:33 [TestNG-test-OrangeHRMTest_edge-2] FATAL BaseClass - Fatal a msg
+2026-04-08 10:24:51 [TestNG-test-OrangeHRMTest_edge-1] ERROR BaseClass - Error msg
+2026-04-08 10:24:51 [TestNG-test-OrangeHRMTest_edge-1] FATAL BaseClass - Fatal a msg
+2026-04-08 10:24:55 [TestNG-test-OrangeHRMTest_edge-2] ERROR BaseClass - Error msg
+2026-04-08 10:24:55 [TestNG-test-OrangeHRMTest_edge-2] FATAL BaseClass - Fatal a msg
+2026-04-08 10:25:21 [TestNG-test-OrangeHRMTest_edge-1] ERROR BaseClass - Error msg
+2026-04-08 10:25:21 [TestNG-test-OrangeHRMTest_edge-1] FATAL BaseClass - Fatal a msg
