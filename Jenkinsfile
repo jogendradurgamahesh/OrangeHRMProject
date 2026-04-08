@@ -40,6 +40,7 @@ pipeline {
                     echo "Starting Selenium Grid with Docker Compose..."
                        bat """
                         cd "${WORKSPACE}/docker"
+                        docker compose down
                         docker compose up -d
                         """    
 
